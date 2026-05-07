@@ -1,6 +1,6 @@
 [project]
 name = "flowo"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Pythonic DSL for Flowgorithm (.fprg) that can simplify AI-assisted work by generating valid visual programs from Python code."
 readme = "README.md"
 authors = [
@@ -17,3 +17,6 @@ classifiers = [
 ]
 requires-python = ">=3.11"
 dependencies = []
+
+[project.urls]
+Repository = "https://github.com/yuvlian/flowo"
