@@ -1,0 +1,19 @@
+[project]
+name = "flowo"
+version = "0.1.0"
+description = "A Pythonic DSL for Flowgorithm (.fprg) that can simplify AI-assisted work by generating valid visual programs from Python code."
+readme = "README.md"
+authors = [
+    { name = "yuvlian" }
+]
+license = { text = "MIT" }
+keywords = ["flowgorithm", "xml", "dsl", "visual-programming"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Education",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Software Development :: Code Generators",
+]
+requires-python = ">=3.11"
+dependencies = []
